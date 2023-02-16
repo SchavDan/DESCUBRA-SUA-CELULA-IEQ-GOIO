@@ -15,8 +15,9 @@
                         var res1 = document.getElementById('res')
                         var txt = document.getElementById('name')   
                         var name = String(txt.value)
-                        res1.innerHTML = `Que maravilha <strong>${name},
-                        </strong> sua Célula é no <strong>${endLindoia}</strong>!
+                        res1.innerHTML = `Que benção <strong>${name},
+                        </strong> há uma <strong>CÉLULA PRÓXIMO</strong> a você, 
+                        fica no <strong>${endLindoia}</strong>!
                         <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
                         <p>Entre em Contato Conosco: 99772-2270 DANYEL/ 99877-8968 ISABELLE</p>`
     
@@ -31,7 +32,8 @@
                              var txt2 = document.getElementById('name')
                              var name2 = String(txt2.value)
                             res2.innerHTML = `Que benção <strong>${name2},
-                            </strong> há uma <strong>CÉLULA PRÓXIMO</strong> a você, fica no <strong>${endEuropa}</strong>!
+                            </strong> há uma <strong>CÉLULA PRÓXIMO</strong> a você, 
+                            fica no <strong>${endEuropa}</strong>!
                             <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
                             <p>Entre em Contato Conosco: 99804-7818 Pra. MARLI / 99999-8588 Pr. Kleber.</p>`
                              } 

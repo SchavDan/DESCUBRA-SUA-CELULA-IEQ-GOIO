@@ -1,8 +1,8 @@
-        body{
+     body{
             background-position-x: center;
-            background-image:  url("https://static.fabapp.com/2632771/78fa70c3116308eb63685dea2c3d5957e9cde2f9");
+            background-image:  url("/descubra-sua-celula/quadranga.jpg");
             background-repeat: no-repeat;
-            background-size: 1700px;
+            background-size: 850px;
             background-color: black;
             margin: auto;
 
@@ -10,22 +10,21 @@
 
         header {
             text-align: center;
-            font: bold 20pt Arial;
+            font: bold 10pt Arial;
             color: white;
-            margin-top: 220px;
-            margin: auto;
-            margin-left: 200px;
+            margin-top: 100px;
             
         }
 
         section {
             background-color: #000000c5;
             border-radius: 10px;
-            padding: 250px;
-            width: 700px;
+            padding: 50px;
+            width: 500px;
             margin: auto;
             box-shadow: 5px 5px 10px #362e2e;
-            margin-top: 00px;
+            margin-top: 0px;
+            margin-left: center;
            /* background-image: url("/descubra-sua-celula/quadranga.jpg");
             background-repeat: no-repeat;
             background-position-x: center;
@@ -35,44 +34,48 @@
         }
 
         p {
-            font: normal 40pt Arial black;
+            font: normal 20pt Arial black;
             color: #000000;
             text-align: center;
             margin-top: 100px;
-            margin-block-end: 100px;
+            margin-block-end: 0px;
+            
 
         }
 
         h2 {
-            font: normal 45pt Arial black;
+            font: normal 20pt Arial black;
             color: #ffffff;
             text-align: center;
-            margin-top: 100px;
-            margin-block-end: 100px;
+            margin-top: 10px;
+            margin-block-end: 50px;
         }
 
         input#name {
-            font: bold 35pt Arial black;
+            font: bold 16pt Arial black;
             color: #ffffff;
             background-color: #a1999979;
             border-radius: 1000px;
-            width: 650px;
-            padding: 20px;
+            width: 500px;
+            padding: 6px;
+            text-align: center;
+            font-style: italic;
             
         }
         
         input#bairro {
-            font: normal 40pt Arial;
+            font: normal 16pt Arial;
             color: #000000;
             background-color: #a1999979;
             border-radius: 10px;
             padding: 0px;
+            font-style: italic;
         }
         
         select {
-            width: 700px;
-            padding: 15px;
-            font: bold 35pt Arial black;
+            width: 350px;
+            padding: 0px;
+            font: bold 18pt Arial black;
             border-radius: 50px;
             background-color: #b1dbd4cc;
             font-style: italic;
@@ -83,13 +86,13 @@
 
 
         div#res {
-            font: normal 45pt Arial;
+            font: normal 20pt Arial;
             color: rgb(0, 0, 0);
             background-color: #ffffffb0;
             border-radius: 25px;
             text-align: center;
-            width: 800px;
-            margin-left: -40px;
+            width: 500px;
+            
        
             
         }
@@ -106,4 +109,4 @@
             margin-block-end: 100px;
             border-radius: 50px;
             margin-left: 850px;
-        }              
+        }            

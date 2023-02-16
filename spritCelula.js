@@ -11,7 +11,7 @@
                   || (choice == "Colina Verde")
                   || (choice == "Jadins de Monaco")) { 
                                             
-                        var endLindoia = 'Jardim Lindóia: Av. Tiradentes, em frente a praça Nordestina!'
+                        var endLindoia = 'Jardim Lindóia: Av. Tiradentes, nº , em frente a praça Nordestina!'
                         var res1 = document.getElementById('res')
                         var txt = document.getElementById('name')   
                         var name = String(txt.value)
@@ -27,7 +27,7 @@
                            || (choice == "Jardim Canada")
                            || (choice == "Cidade Alta") ) {
 
-                             var endEuropa = `Jardim Europa: Av. Santa Catariana, 745. Na Casa da <strog> Pra. Marli e Pr. Kleber</strong>`
+                             var endEuropa = `Jardim Europa: Av. Santa Catariana, nº 745. Na Casa da <strog> Pra. Marli e Pr. Kleber</strong>`
                              var res2 = document.getElementById('res')
                              var txt2 = document.getElementById('name')
                              var name2 = String(txt2.value)
@@ -46,7 +46,7 @@
                                 || (choice == "Jardim Tropical")
                                 ) {
                                 
-                                var endCuritiba = `Jardim Curitiba: Rua XX, 00. <strong>Na Casa do Luiz Felipe e Maria Vitória</strong>!`
+                                var endCuritiba = `Jardim Curitiba: Rua Do Café, nº 715. <strong>Na Casa do Luiz Felipe e Maria Vitória</strong>!`
                                 var res3 = document.getElementById('res')
                                 var txt3 = document.getElementById('name')
                                 var name3 = String(txt3.value)
@@ -61,7 +61,7 @@
                                 || (choice == "Jardim Cristo Rei")
                                 || (choice == "Jardim Bela Vista") ) {
                                     
-                                 var endSantaCasa = `Santa Casa: Rua XXX, 00. <strong>Na Casa XXX</strong>!`
+                                 var endSantaCasa = `Santa Casa: Rua XXX, nº 00. <strong>Na Casa XXX</strong>!`
                                  var res4 = document.getElementById('res')
                                  var txt4 = document.getElementById('name')
                                  var name4 = String(txt4.value)
@@ -72,7 +72,7 @@
                                 <p>Entre em Contato Conosco: 99942-9280 IRMÃ IDATI.</p>`
 
                             } if (choice == "Jardim Universitário") {
-                                var endJardimUni = `Jardim Universitário: Rua XXXX, 00. <strong>Na Casa xxxxx</strong>`
+                                var endJardimUni = `Jardim Universitário: Rua XXXX, nº 00. <strong>Na Casa xxxxx</strong>`
                                 var res5 = document.getElementById('res')
                                 var txt5 = document.getElementById('name')
                                 var name5 = String(txt5.value)
@@ -84,7 +84,7 @@
                             
                             }  if ( (choice == "Jardim Santa Mônica")
                                  || (choice == "Águas Claras")) {
-                                 var endAg = `Àguas Clara: Rua XXXX, 00. <strong>Na Casa XXXX</strong>`
+                                 var endAg = `Àguas Clara: Rua XXXX, nº 00. <strong>Na Casa XXXX</strong>`
                                  var res6 = document.getElementById('res')
                                  var txt6 = document.getElementById('name')
                                  var name6 = String(txt6.value)

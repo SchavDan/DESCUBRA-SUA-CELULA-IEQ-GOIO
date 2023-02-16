@@ -11,7 +11,7 @@
                   || (choice == "Colina Verde")
                   || (choice == "Jadins de Monaco")) { 
                                             
-                        var endLindoia = 'Jardim Lindóia: Av. Tiradentes, nº , em frente a praça Nordestina!'
+                        var endLindoia = 'Jardim Lindóia: Av. Tiradentes, nº 225, em frente a praça Nordestina!'
                         var res1 = document.getElementById('res')
                         var txt = document.getElementById('name')   
                         var name = String(txt.value)

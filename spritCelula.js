@@ -40,11 +40,7 @@
 
                         } if ( (choice == "Jardim Curitiba") 
                                 || (choice == "Jardim América") 
-                                || (choice == "Jardim Galiléia") 
-                                || (choice == "Jardim Primavera") 
-                                || (choice == "Vila Nsª. das Candeias")
-                                || (choice == "Jardim Tropical")
-                                ) {
+                                || (choice == "Vila Nsª. das Candeias") ) {
                                 
                                 var endCuritiba = `Jardim Curitiba: Rua Do Café, nº 715. <strong>Na Casa do Luiz Felipe e Maria Vitória</strong>!`
                                 var res3 = document.getElementById('res')
@@ -58,8 +54,7 @@
                               
                             } if ( (choice == "Santa Casa")
                                 || (choice == "Vila Guaíra")
-                                || (choice == "Jardim Cristo Rei")
-                                || (choice == "Jardim Bela Vista") ) {
+                                || (choice == "Jardim Cristo Rei") ) {
                                     
                                  var endSantaCasa = `Santa Casa: Rua XXX, nº 00. <strong>Na Casa XXX</strong>!`
                                  var res4 = document.getElementById('res')
@@ -93,7 +88,20 @@
                                   fica no  <strong>${endAg}</strong>!
                                   <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
                                   <p>Entre em Contato Conosco: LIDER CELMA 99918-044.</p>`
-                                 } 
+                                 
+                            }  if ( (choice == "Jardim Primavera") 
+                                 || (choice == "Jardim Galiléia")
+                                 || (choice == "Jardim Tropical")
+                                 || (choice == "Jardim Bela Vista") ) {
+                                   var endPri = `Primavera: Travessa Tamarana, nº 44, Casa 5. Na casa do Flavio`
+                                   var res7 = document.getElementById('res')
+                                   var txt7 = document.getElementById('name')
+                                   var name7 = String(txt7.value)
+                                    res7.innerHTML = `Que benção <strong>${name7},
+                                  </strong> há uma <strong>CÉLULA PRÓXIMO</strong> a você, 
+                                  fica no  <strong>${endPri}</strong>!
+                                  <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
+                                  <p>Entre em Contato Conosco: LIDER Pr. Luiz Henrique 99112-6239.</p>`
 
             }                   
     

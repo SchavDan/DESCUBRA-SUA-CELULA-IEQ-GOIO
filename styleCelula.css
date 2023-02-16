@@ -2,7 +2,7 @@
             background-position-x: center;
             background-image:  url("https://static.fabapp.com/2632771/78fa70c3116308eb63685dea2c3d5957e9cde2f9");
             background-repeat: no-repeat;
-            background-size: 850px;
+            background-size: 700px;
             background-color: black;
             margin: auto;
 
@@ -10,9 +10,10 @@
 
         header {
             text-align: center;
-            font: bold 10pt Arial;
+            font: bold 8pt Arial;
             color: white;
             margin-top: 100px;
+            margin: center;
             
         }
 
@@ -20,7 +21,7 @@
             background-color: #000000c5;
             border-radius: 10px;
             padding: 50px;
-            width: 500px;
+            width: 350px;
             margin: auto;
             box-shadow: 5px 5px 10px #362e2e;
             margin-top: 0px;
@@ -34,7 +35,7 @@
         }
 
         p {
-            font: normal 20pt Arial black;
+            font: normal 10pt Arial black;
             color: #000000;
             text-align: center;
             margin-top: 100px;
@@ -44,7 +45,7 @@
         }
 
         h2 {
-            font: normal 20pt Arial black;
+            font: normal 10pt Arial black;
             color: #ffffff;
             text-align: center;
             margin-top: 10px;
@@ -52,11 +53,11 @@
         }
 
         input#name {
-            font: bold 16pt Arial black;
+            font: bold 10pt Arial black;
             color: #ffffff;
             background-color: #a1999979;
             border-radius: 1000px;
-            width: 500px;
+            width: 300px;
             padding: 6px;
             text-align: center;
             font-style: italic;
@@ -73,9 +74,9 @@
         }
         
         select {
-            width: 350px;
+            width: 250px;
             padding: 0px;
-            font: bold 18pt Arial black;
+            font: bold 10pt Arial black;
             border-radius: 50px;
             background-color: #b1dbd4cc;
             font-style: italic;
@@ -86,12 +87,12 @@
 
 
         div#res {
-            font: normal 20pt Arial;
+            font: normal 12pt Arial;
             color: rgb(0, 0, 0);
             background-color: #ffffffb0;
             border-radius: 25px;
             text-align: center;
-            width: 500px;
+            width: 350px;
             
        
             
@@ -109,4 +110,4 @@
             margin-block-end: 100px;
             border-radius: 50px;
             margin-left: 850px;
-        }            
+        }              

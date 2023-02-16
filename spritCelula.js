@@ -26,7 +26,7 @@
                            || (choice == "Jardim Canada")
                            || (choice == "Cidade Alta") ) {
 
-                             var endEuropa = `Jardim Europa: Av. Santa Catariana, 721. Na Casa da <strog> Pra. Marli e Pr. Kleber</strong>`
+                             var endEuropa = `Jardim Europa: Av. Santa Catariana, 745. Na Casa da <strog> Pra. Marli e Pr. Kleber</strong>`
                              var res2 = document.getElementById('res')
                              var txt2 = document.getElementById('name')
                              var name2 = String(txt2.value)

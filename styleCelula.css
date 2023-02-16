@@ -2,7 +2,7 @@
             background-position-x: center;
             background-image:  url("https://static.fabapp.com/2632771/78fa70c3116308eb63685dea2c3d5957e9cde2f9");
             background-repeat: no-repeat;
-            background-size: 500px;
+            background-size: 450px;
             background-color: black;
             margin: auto;
 
@@ -21,7 +21,7 @@
             background-color: #000000c5;
             border-radius: 10px;
             padding: 50px;
-            width: 250px;
+            width: 200px;
             margin: auto;
             box-shadow: 5px 5px 10px #362e2e;
             margin-top: 0px;
@@ -61,6 +61,7 @@
             padding: 2px;
             text-align: center;
             font-style: italic;
+            margin-left: -25px;
             
         }
         
@@ -81,6 +82,7 @@
             background-color: #b1dbd4cc;
             font-style: italic;
             text-align: center;
+            margin-left: -22px;
             
         }
 
@@ -93,6 +95,7 @@
             border-radius: 25px;
             text-align: center;
             width: 250px;
+            margin-left: -22px;
             
        
             

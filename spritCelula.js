@@ -19,7 +19,7 @@
                         </strong> há uma <strong>CÉLULA PRÓXIMO</strong> a você, 
                         fica no <strong>${endLindoia}</strong>!
                         <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
-                        <p>Entre em Contato Conosco: 99772-2270 DANYEL/ 99877-8968 ISABELLE</p>`
+                        <p>Entre em Contato Conosco: LIDERES: DANYEL 99772-2270/  ISABELLE 99877-8968</p>`
     
                     } else {
                          if ( (choice == "Jardim Europa") 
@@ -35,7 +35,7 @@
                             </strong> há uma <strong>CÉLULA PRÓXIMO</strong> a você, 
                             fica no <strong>${endEuropa}</strong>!
                             <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
-                            <p>Entre em Contato Conosco: 99804-7818 Pra. MARLI / 99999-8588 Pr. Kleber.</p>`
+                            <p>Entre em Contato Conosco: Pra. MARLI 99804-7818/ Pr. Kleber 99999-8588.</p>`
                              } 
 
                         } if ( (choice == "Jardim Curitiba") 
@@ -54,7 +54,7 @@
                                 </strong> há uma <strong>CÉLULA PRÓXIMO</strong> a você, 
                                 fica no <strong>${endCuritiba}</strong>!
                                 <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
-                                <p>Entre em Contato Conosco: 99720-8533 IRMÃ CILNEY.</p>`
+                                <p>Entre em Contato Conosco: LIDER CILNEY 99720-8533.</p>`
                               
                             } if ( (choice == "Santa Casa")
                                 || (choice == "Vila Guaíra")
@@ -69,7 +69,7 @@
                                 </strong> há uma <strong>CÉLULA PRÓXIMO</strong> 
                                 a você, fica no  <strong>${endSantaCasa}</strong>!
                                 <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
-                                <p>Entre em Contato Conosco: 99942-9280 IRMÃ IDATI.</p>`
+                                <p>Entre em Contato Conosco: LIDER IDATI 99942-9280.</p>`
 
                             } if (choice == "Jardim Universitário") {
                                 var endJardimUni = `Jardim Universitário: Rua XXXX, nº 00. <strong>Na Casa xxxxx</strong>`
@@ -80,7 +80,7 @@
                                 </strong> há uma <strong>CÉLULA PRÓXIMO</strong> a você,
                                  fica no <strong>${endJardimUni}</strong>!
                                 <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
-                                <p>Entre em Contato Conosco: 000000</p>`
+                                <p>Entre em Contato Conosco: Pr. XX 000000</p>`
                             
                             }  if ( (choice == "Jardim Santa Mônica")
                                  || (choice == "Águas Claras")) {
@@ -92,7 +92,7 @@
                                   </strong> há uma <strong>CÉLULA PRÓXIMO</strong> a você, 
                                   fica no  <strong>${endAg}</strong>!
                                   <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
-                                  <p>Entre em Contato Conosco: 99918-044 IRMÃ CELMA.</p>`
+                                  <p>Entre em Contato Conosco: LIDER CELMA 99918-044.</p>`
                                  } 
 
             }                   

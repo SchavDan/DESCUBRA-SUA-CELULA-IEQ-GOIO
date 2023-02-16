@@ -33,7 +33,7 @@
                             res2.innerHTML = `Que benção <strong>${name2},
                             </strong> há uma <strong>CÉLULA PRÓXIMO</strong> a você, fica no <strong>${endEuropa}</strong>!
                             <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
-                            <p>Entre em Contato Conosco: 99804-7818 Pra. MARLI.</p>`
+                            <p>Entre em Contato Conosco: 99804-7818 Pra. MARLI / 99999-8588 Pr. Kleber.</p>`
                              } 
 
                         } if ( (choice == "Jardim Curitiba") 

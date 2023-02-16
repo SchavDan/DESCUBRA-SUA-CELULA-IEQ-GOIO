@@ -102,6 +102,7 @@
                                   fica no  <strong>${endPri}</strong>!
                                   <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
                                   <p>Entre em Contato Conosco: LIDER Pr. Luiz Henrique 99112-6239.</p>`
+                            }
 
             }                   
     

@@ -67,7 +67,7 @@
                                 <p>Entre em Contato Conosco: LIDER KLEIA 99960-3013.</p>`
 
                             } if (choice == "Jardim Universitário") {
-                                var endJardimUni = `Jardim Universitário: Rua XXXX, nº 00. <strong>Na Casa do Pr. Genilson</strong>`
+                                var endJardimUni = `Jardim Universitário: Rua Nadir Cancian, nº 375. <strong>Na Casa do Pr. Genilson</strong>`
                                 var res5 = document.getElementById('res')
                                 var txt5 = document.getElementById('name')
                                 var name5 = String(txt5.value)
@@ -75,7 +75,7 @@
                                 </strong> há uma <strong>CÉLULA PRÓXIMO</strong> a você,
                                  fica no <strong>${endJardimUni}</strong>!
                                 <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
-                                <p>Entre em Contato Conosco: Pr. Genilson XX 000000</p>`
+                                <p>Entre em Contato Conosco: Pr. Genilson 99863-4887</p>`
                             
                             }  if ( (choice == "Jardim Santa Mônica")
                                  || (choice == "Águas Claras")) {

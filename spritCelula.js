@@ -93,7 +93,7 @@
                                  || (choice == "Jardim Galiléia")
                                  || (choice == "Jardim Tropical")
                                  || (choice == "Jardim Bela Vista") ) {
-                                   var endPri = `Primavera: Travessa Tamarana, nº 44, Casa 5. Na casa do Flavio`
+                                   var endPri = `Primavera: Travessa Tamarana, nº 44, Casa 5. Na casa do Irmão Flavio`
                                    var res7 = document.getElementById('res')
                                    var txt7 = document.getElementById('name')
                                    var name7 = String(txt7.value)

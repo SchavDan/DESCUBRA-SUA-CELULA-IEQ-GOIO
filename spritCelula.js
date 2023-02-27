@@ -79,7 +79,7 @@
                             
                             }  if ( (choice == "Jardim Santa Mônica")
                                  || (choice == "Águas Claras")) {
-                                 var endAg = `Àguas Clara: Rua Arapongas, nº 82. <strong>Na Casa da Irmão Domingas</strong>`
+                                 var endAg = `Àguas Clara: Rua Arapongas, nº 82. <strong>Na Casa da Irmã Domingas</strong>`
                                  var res6 = document.getElementById('res')
                                  var txt6 = document.getElementById('name')
                                  var name6 = String(txt6.value)

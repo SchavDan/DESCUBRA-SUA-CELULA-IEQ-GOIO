@@ -113,5 +113,12 @@
             margin-block-end: 100px;
             border-radius: 50px;
             margin-left: 850px;
+    
         }              
+        footer {
+            color: white;
+            text-align: center;
+            font-style: italic;
+        
+        }
 

@@ -85,7 +85,7 @@
                                  var name6 = String(txt6.value)
                                   res6.innerHTML = `Que benção <strong>${name6},
                                   </strong> há uma <strong>CÉLULA PRÓXIMO</strong> a você, 
-                                  fica no  <strong>${endAg}</strong>!
+                                  fica no bairro <strong>${endAg}</strong>!
                                   <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
                                   <p>Entre em Contato Conosco: LIDER CELMA 99918-044.</p>`
                                  

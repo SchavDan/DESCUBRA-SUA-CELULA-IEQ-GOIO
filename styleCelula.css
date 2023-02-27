@@ -116,10 +116,10 @@
     
         }              
         footer {
+            font: normal 12pt Arial;
             color: white;
             text-align: center;
             font-style: italic;
-            font: bold 12pt Arial White;
-        
+              
         }
 

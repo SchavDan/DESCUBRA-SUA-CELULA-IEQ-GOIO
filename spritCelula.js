@@ -56,7 +56,7 @@
                                 || (choice == "Vila Guaíra")
                                 || (choice == "Jardim Cristo Rei") ) {
                                     
-                                 var endSantaCasa = `Santa Casa: Rua XXX, nº 00. <strong>Na Casa XXX</strong>!`
+                                 var endSantaCasa = `Santa Casa: Av. Danil Portela, nº 1790. <strong>Na Casa da Irmão Idati</strong>!`
                                  var res4 = document.getElementById('res')
                                  var txt4 = document.getElementById('name')
                                  var name4 = String(txt4.value)
@@ -64,10 +64,10 @@
                                 </strong> há uma <strong>CÉLULA PRÓXIMO</strong> 
                                 a você, fica no  <strong>${endSantaCasa}</strong>!
                                 <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
-                                <p>Entre em Contato Conosco: LIDER IDATI 99942-9280.</p>`
+                                <p>Entre em Contato Conosco: LIDER KLEIA 99960-3013.</p>`
 
                             } if (choice == "Jardim Universitário") {
-                                var endJardimUni = `Jardim Universitário: Rua XXXX, nº 00. <strong>Na Casa xxxxx</strong>`
+                                var endJardimUni = `Jardim Universitário: Rua XXXX, nº 00. <strong>Na Casa do Pr. Genilson</strong>`
                                 var res5 = document.getElementById('res')
                                 var txt5 = document.getElementById('name')
                                 var name5 = String(txt5.value)
@@ -75,11 +75,11 @@
                                 </strong> há uma <strong>CÉLULA PRÓXIMO</strong> a você,
                                  fica no <strong>${endJardimUni}</strong>!
                                 <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
-                                <p>Entre em Contato Conosco: Pr. XX 000000</p>`
+                                <p>Entre em Contato Conosco: Pr. Genilson XX 000000</p>`
                             
                             }  if ( (choice == "Jardim Santa Mônica")
                                  || (choice == "Águas Claras")) {
-                                 var endAg = `Àguas Clara: Rua XXXX, nº 00. <strong>Na Casa XXXX</strong>`
+                                 var endAg = `Àguas Clara: Rua Arapongas, nº 82. <strong>Na Casa da Irmão Domingas</strong>`
                                  var res6 = document.getElementById('res')
                                  var txt6 = document.getElementById('name')
                                  var name6 = String(txt6.value)

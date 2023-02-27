@@ -87,7 +87,7 @@
                                   </strong> há uma <strong>CÉLULA PRÓXIMO</strong> a você, 
                                   fica no bairro <strong>${endAg}</strong>!
                                   <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
-                                  <p>Entre em Contato Conosco: LIDER CELMA 99918-044.</p>`
+                                  <p>Entre em Contato Conosco: LIDER CELMA 99918-0944.</p>`
                                  
                             }  if ( (choice == "Jardim Primavera") 
                                  || (choice == "Jardim Galiléia")

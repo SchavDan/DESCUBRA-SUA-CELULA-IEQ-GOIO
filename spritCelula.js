@@ -56,7 +56,7 @@
                                 || (choice == "Vila Guaíra")
                                 || (choice == "Jardim Cristo Rei") ) {
                                     
-                                 var endSantaCasa = `Santa Casa: Av. Danil Portela, nº 1790. <strong>Na Casa da Irmão Idati</strong>!`
+                                 var endSantaCasa = `Santa Casa: Av. Danil Portela, nº 1790. <strong>Na Casa da Irmã Idati</strong>!`
                                  var res4 = document.getElementById('res')
                                  var txt4 = document.getElementById('name')
                                  var name4 = String(txt4.value)

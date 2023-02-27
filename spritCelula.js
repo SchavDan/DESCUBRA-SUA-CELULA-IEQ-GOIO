@@ -62,7 +62,7 @@
                                  var name4 = String(txt4.value)
                                     res4.innerHTML = `Que benção <strong>${name4},
                                 </strong> há uma <strong>CÉLULA PRÓXIMO</strong> 
-                                a você, fica no  <strong>${endSantaCasa}</strong>!
+                                a você, fica no bairro  <strong>${endSantaCasa}</strong>!
                                 <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
                                 <p>Entre em Contato Conosco: LIDER KLEIA 99960-3013.</p>`
 

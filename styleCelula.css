@@ -117,7 +117,7 @@
         }              
         footer {
             font: normal 12pt Arial;
-            color: white;
+            color: rgb(0, 0, 0);
             text-align: center;
             font-style: italic;
             background-color: green;

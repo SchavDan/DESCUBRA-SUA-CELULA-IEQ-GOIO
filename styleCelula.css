@@ -44,6 +44,14 @@
 
         }
 
+         p9 {
+             font: bold 10pt Arial black;
+             color: #000000;
+             text-align: center;
+             font-style: italic;
+             margin-top: 10px;
+         }
+
         h2 {
             font: normal 9pt Arial black;
             color: #ffffff;

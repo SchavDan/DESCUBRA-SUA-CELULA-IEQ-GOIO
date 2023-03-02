@@ -95,10 +95,16 @@
             border-radius: 25px;
             text-align: center;
             width: 250px;
-            margin-left: -22px;
-            
+            margin-left: -22px;          
        
-            
+        }
+
+        
+         div#data {
+                     margin-top: 30px;
+                     font: bold 10pt Arial;
+                     font-style: italic;
+                     color: #ffd000;
         }
 
         input#button {

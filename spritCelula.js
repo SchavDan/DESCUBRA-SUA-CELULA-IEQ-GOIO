@@ -19,7 +19,8 @@
                         </strong> há uma <strong>CÉLULA PRÓXIMO</strong> a você, 
                         fica no <strong>${endLindoia}</strong>!
                         <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
-                        <p>Entre em Contato Conosco: LIDERES: DANYEL 99772-2270/  ISABELLE 99877-8968</p>`
+                        <p>Entre em Contato Conosco: LIDERES: DANYEL 99772-2270/  ISABELLE 99877-8968</p>
+                        <p9>Nós nos reunimos todas as Quartas-Feiras às 20h00min!</p9>`
     
                     } else {
                          if ( (choice == "Jardim Europa") 
@@ -35,7 +36,8 @@
                             </strong> há uma <strong>CÉLULA PRÓXIMO</strong> a você, 
                             fica no <strong>${endEuropa}</strong>!
                             <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
-                            <p>Entre em Contato Conosco: Pra. MARLI 99804-7818/ Pr. Kleber 99999-8588.</p>`
+                            <p>Entre em Contato Conosco: Pra. MARLI 99804-7818/ Pr. Kleber 99999-8588.</p>
+                            <p9>Nós nos reunimos todas as Quartas-Feiras às 20h00min!</p9>`
                              } 
 
                         } if ( (choice == "Jardim Curitiba") 
@@ -50,7 +52,8 @@
                                 </strong> há uma <strong>CÉLULA PRÓXIMO</strong> a você, 
                                 fica no <strong>${endCuritiba}</strong>!
                                 <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
-                                <p>Entre em Contato Conosco: LIDER CILNEY 99720-8533.</p>`
+                                <p>Entre em Contato Conosco: LIDER CILNEY 99720-8533.</p>
+                                <p9>Nós nos reunimos todas as Quartas-Feiras às 20h00min!</p9>`
                               
                             } if ( (choice == "Santa Casa")
                                 || (choice == "Vila Guaíra")
@@ -64,7 +67,8 @@
                                 </strong> há uma <strong>CÉLULA PRÓXIMO</strong> 
                                 a você, fica no bairro  <strong>${endSantaCasa}</strong>!
                                 <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
-                                <p>Entre em Contato Conosco: LIDER KLEIA 99960-3013.</p>`
+                                <p>Entre em Contato Conosco: LIDER KLEIA 99960-3013.</p>
+                                <p9>Nós nos reunimos todas as Quartas-Feiras às 20h00min!</p9>`
 
                             } if (choice == "Jardim Universitário") {
                                 var endJardimUni = `Jardim Universitário: Rua Nadir Cancian, nº 375. <strong>Na Casa do Pr. Genilson</strong>`
@@ -75,7 +79,8 @@
                                 </strong> há uma <strong>CÉLULA PRÓXIMO</strong> a você,
                                  fica no <strong>${endJardimUni}</strong>!
                                 <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
-                                <p>Entre em Contato Conosco: Pr. Genilson 99863-4887</p>`
+                                <p>Entre em Contato Conosco: Pr. Genilson 99863-4887</p>
+                                <p9>Nós nos reunimos todas as Quartas-Feiras às 20h00min!</p9>`
                             
                             }  if ( (choice == "Jardim Santa Mônica")
                                  || (choice == "Águas Claras")) {
@@ -87,7 +92,8 @@
                                   </strong> há uma <strong>CÉLULA PRÓXIMO</strong> a você, 
                                   fica no bairro <strong>${endAg}</strong>!
                                   <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
-                                  <p>Entre em Contato Conosco: LIDER CELMA 99918-0944.</p>`
+                                  <p>Entre em Contato Conosco: LIDER CELMA 99918-0944.</p>
+                                  <p9>Nós nos reunimos todas as Quartas-Feiras às 20h00min!</p9>`
                                  
                             }  if ( (choice == "Jardim Primavera") 
                                  || (choice == "Jardim Galiléia")
@@ -101,7 +107,8 @@
                                   </strong> há uma <strong>CÉLULA PRÓXIMO</strong> a você, 
                                   fica no  <strong>${endPri}</strong>!
                                   <p>Ficaremos Muito Felizes em recebe-lo(a)!!</p>
-                                  <p>Entre em Contato Conosco: LIDER Pr. Luiz Henrique 99112-6239.</p>`
+                                  <p>Entre em Contato Conosco: LIDER Pr. Luiz Henrique 99112-6239.</p>
+                                  <p9>Nós nos reunimos todas as Quartas-Feiras às 20h00min!</p9>`
                             }
 
             }                   

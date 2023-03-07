@@ -28,7 +28,7 @@
                            || (choice == "Jardim Canada")
                            || (choice == "Cidade Alta") ) {
 
-                             var endEuropa = `Jardim Europa: Av. Santa Catariana, nº 745. Na Casa da <strong> Pra. Marli e Pr. Kleber!</strong>
+                             var endEuropa = `Jardim Europa: Av. Santa Catarina, nº 745. Na Casa da <strong> Pra. Marli e Pr. Kleber!</strong>
                              <p9>Nós nos reunimos todas as Quartas-Feiras às 20h00min!</p9>`
                              var res2 = document.getElementById('res')
                              var txt2 = document.getElementById('name')
@@ -59,7 +59,7 @@
                                 || (choice == "Vila Guaíra")
                                 || (choice == "Jardim Cristo Rei") ) {
                                     
-                                 var endSantaCasa = `Santa Casa: Av. Danil Portela, nº 1790. <strong>Na Casa da Irmã Idati!</strong>!
+                                 var endSantaCasa = `Santa Casa: Av. Daniel Portela, nº 1790. <strong>Na Casa da Irmã Idati!</strong>!
                                 <p9>Nós nos reunimos todas as Quartas-Feiras às 20h00min!</p9>`
                                  var res4 = document.getElementById('res')
                                  var txt4 = document.getElementById('name')
